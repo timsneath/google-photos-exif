@@ -121,5 +121,6 @@ dist
 /lib
 /tmp
 
-
+# IDE
 .idea
+.vscode

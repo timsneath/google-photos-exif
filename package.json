@@ -10,6 +10,8 @@
   "dependencies": {
     "@oclif/command": "^1",
     "@oclif/config": "^1",
+    "@oclif/errors": "^1.3.6",
+    "@oclif/parser": "^3.8.17",
     "@oclif/plugin-help": "^3",
     "exiftool-vendored": "^12.1.0",
     "tslib": "^1"
